@@ -3,9 +3,14 @@
 This little project shows some examples how to use the spring project with kotlin.
 
 
-###Projects:
+### Projects:
 - Spring cloud config server/client
 - Spring cloud service discovery server/client
 - Spring actuator
 - Spring sleuth
 - Spring openfeign
+- Spring gateway
+
+
+#### Config Repository
+- URL: https://github.com/marcowuethrich/spring-kotlin-config.git
