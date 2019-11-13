@@ -1,7 +1,9 @@
 eureka:
   client:
+    eureka-server-connect-timeout-seconds: 5
     register-with-eureka: false
     fetch-registry: false
+    enabled: true
 
 server:
   port: 8761
