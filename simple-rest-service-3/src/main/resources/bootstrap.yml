@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: simple-rest-service-3
+  profiles:
+    active: dev

@@ -7,3 +7,8 @@ eureka:
       defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
   instance:
     preferIpAddress: true
+
+spring:
+  zipkin:
+    baseUrl: http://localhost:9411/
+    discoveryClientEnabled: false

@@ -1,0 +1,13 @@
+package ch.acme.reseller
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class ResellerApplicationTests {
+
+	@Test
+	fun contextLoads() {
+	}
+
+}

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ch.acme</groupId>
-    <artifactId>config</artifactId>
+    <artifactId>config-server</artifactId>
     <version>0.0.1</version>
-    <name>config</name>
+    <name>config-server</name>
     <description>Spring cloud config</description>
 
     <properties>
@@ -48,6 +48,10 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-sleuth</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zipkin</artifactId>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.module</groupId>

@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-discovery/service-discovery.iml" filepath="$PROJECT_DIR$/service-discovery/service-discovery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simple-rest-service/simple-rest-service.iml" filepath="$PROJECT_DIR$/simple-rest-service/simple-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-rest-service-1/simple-rest-service-1.iml" filepath="$PROJECT_DIR$/simple-rest-service-1/simple-rest-service-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-rest-service-2/simple-rest-service-2.iml" filepath="$PROJECT_DIR$/simple-rest-service-2/simple-rest-service-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-rest-service-3/simple-rest-service-3.iml" filepath="$PROJECT_DIR$/simple-rest-service-3/simple-rest-service-3.iml" />
     </modules>
   </component>
 </project>
